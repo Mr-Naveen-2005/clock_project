@@ -1,0 +1,26 @@
+body{
+    background-image:linear-gradient(orange,blue);
+    align-items: center;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+.panel{
+
+    background-color: #D9A299;
+    border-radius: 12px;
+    text-align: center;
+    box-sizing: border-box;
+    width: 90%;
+    max-width: 600px;
+}
+.time{
+    color:blue;
+    font-size: larger;
+    font-family:cursive;
+    font-style:italic;
+
+}
